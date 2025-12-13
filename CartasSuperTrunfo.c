@@ -91,7 +91,7 @@ int main() {
   printf("Número de Pontos Turísticos: %d\n", turismo2);
   printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
   printf("PIB per Capita: %.2f reais\n", ppc2);
-  printf("Super Poder: %.2f\n", super1);
+  printf("Super Poder: %.2f\n", super2);
 
   // Área para comparação de cartas
   printf("\n*** COMPARAÇÃO DE CARTAS ***\n");
